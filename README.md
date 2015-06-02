@@ -1,6 +1,6 @@
 
 
-My personal webpage: [drarnakarick.github.io](drarnakarick.github.io)
+My personal webpage: [drarnakarick.github.io](http://drarnakarick.github.io/)
 
 
 ##About##
